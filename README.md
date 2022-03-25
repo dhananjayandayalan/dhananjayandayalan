@@ -22,10 +22,11 @@ I am Dhananjayan DV, currently working in [AVIZVA Solutions](https://www.avizva.
 ### Libraries & Framework:
 
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-563D7C?style=flat-square&logo=tailwindcss)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-707070?style=flat-square&logo=tailwindcss)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white"></a>
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-white?style=flat-square&logo=postgresql)
+![Flutter](https://img.shields.io/badge/-Flutter-blue?style=flat-square&logo=flutter)
 
 ### Tools:
 

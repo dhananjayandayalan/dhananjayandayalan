@@ -1,6 +1,6 @@
 ## Dhanan here <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-I am Dhananjayan DV, currently working in [AVIZVA Solutions](https://www.avizva.com/) as an Associate Trainee. I love tech & open-source. I'm currently exploring Web3 & Flutter. Feel free to connect with me here:
+I am Dhananjayan DV, currently working as a React Developer in [AVIZVA Solutions](https://www.avizva.com/). I love tech & open-source. I'm currently exploring Web3 & Flutter. Feel free to connect with me here:
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/dhananstonks?style=social)](https://twitter.com/dhananstonks)
 [![Linkedin Badge](https://img.shields.io/badge/-dhananjayandayalan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dhananjayandayalan/)](https://www.linkedin.com/in/dhananjayandayalan/)

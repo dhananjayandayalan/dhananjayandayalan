@@ -2,7 +2,7 @@
 
 I am Dhananjayan D, currently working as a React Developer in [AVIZVA Solutions](https://www.avizva.com/). Feel free to connect with me here:
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/dhananstonks?style=social)](https://twitter.com/dhananstonks)
+[![Twitter Follow](https://img.shields.io/twitter/follow/dhanan___?style=social)](https://twitter.com/dhanan___)
 [![Linkedin Badge](https://img.shields.io/badge/-dhananjayandayalan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dhananjayandayalan/)](https://www.linkedin.com/in/dhananjayandayalan/)
 
 ## Tech Stacks:

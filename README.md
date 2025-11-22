@@ -1,8 +1,7 @@
 ## Dhanan here <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-I am Dhananjayan D, currently working as a React Developer in [AVIZVA Solutions](https://www.avizva.com/). Feel free to connect with me here:
+I am Dhananjayan D, currently working as a Fullstack Javascript Developer in Tata Consultancy Services. Feel free to connect with me here:
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/dhanan___?style=social)](https://twitter.com/dhanan___)
 [![Linkedin Badge](https://img.shields.io/badge/-dhananjayandayalan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dhananjayandayalan/)](https://www.linkedin.com/in/dhananjayandayalan/)
 
 ## Tech Stacks:
